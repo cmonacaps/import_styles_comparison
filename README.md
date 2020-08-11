@@ -6,7 +6,7 @@
 * having equivalent behavior
 * having the same code, except for the imports from `ramda`
 
-img
+![Screen Shot 2020-08-11 at 1 11 21 PM](https://user-images.githubusercontent.com/50930812/89927329-2cd61a00-dbd4-11ea-98ac-412dd2d85d9e.png)
 
 ### cra_import_star
 
