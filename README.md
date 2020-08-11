@@ -50,3 +50,12 @@ const R = { add, apply, chain, compose, curryN, flatten, flip, groupBy, head,
 |static/js/main.HASH.chunk.js|1855|2320|
 |static/js/runtime-main.HASH.js|1557|1557|
 |static/js/2.HASH.chunk.js.LICENSE.txt|790|790|
+
+#### `import * as`
+
+![import_star](https://user-images.githubusercontent.com/50930812/89927821-e46b2c00-dbd4-11ea-8c53-0d244c5c79c4.png)
+
+#### `import { named }`
+
+![import_named](https://user-images.githubusercontent.com/50930812/89927838-ecc36700-dbd4-11ea-87ce-67fe8ff2454a.png)
+
